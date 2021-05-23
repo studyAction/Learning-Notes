@@ -7,7 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * 容器式单例
  */
 public class ContainerSingleton {
-    private final static Map<String, Object> ioc = new ConcurrentHashMap<>();
+    private static Map<String, Object> ioc = new ConcurrentHashMap<>();
     private ContainerSingleton(){}
     public static Object getBean(String className) {
         synchronized (ioc) {
