@@ -1,4 +1,4 @@
-package com.yk.singleton;
+package com.yk.create_chapter.singleton;
 
 /**
  * 这种形式兼顾了饿汉式单例写法的内存浪费问题和synchronized的性能问题

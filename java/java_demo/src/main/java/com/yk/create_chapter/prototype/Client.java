@@ -1,4 +1,4 @@
-package com.yk.prototype;
+package com.yk.create_chapter.prototype;
 
 public class Client {
     public static void main(String[] args) {

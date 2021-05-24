@@ -1,4 +1,4 @@
-package com.yk.singleton;
+package com.yk.create_chapter.singleton;
 
 /**
  * 枚举式单例

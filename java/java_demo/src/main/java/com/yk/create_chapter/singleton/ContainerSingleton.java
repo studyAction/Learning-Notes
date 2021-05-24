@@ -1,4 +1,4 @@
-package com.yk.singleton;
+package com.yk.create_chapter.singleton;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
