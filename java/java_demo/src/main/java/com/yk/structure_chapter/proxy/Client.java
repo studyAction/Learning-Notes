@@ -5,5 +5,7 @@ public class Client {
         JdkMeipo proxy = new JdkMeipo();
         IPerson zhao = proxy.getInstance(new Customer());
         zhao.findLove();
+
+
     }
 }
